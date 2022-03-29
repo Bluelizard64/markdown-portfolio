@@ -1,10 +1,11 @@
-* Pancake
+* Pancakes 
 * Waffles
-   1.  Maple surup
-   2.  Sugar-free surup
-   3.  Peanut butter and jelly
+   *  Maple surup
+   *  Sugar-free surup
+   *  Peanut butter and jelly
 
-1. Item 1
-2. Item 2
-   1. Item 3a
-   2. Item 3b
+1. Bus stop
+2. Ride home
+   1. Car
+   2. Bus
+3. Transit Station
